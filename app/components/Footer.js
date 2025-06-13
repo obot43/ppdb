@@ -13,7 +13,7 @@ export default function Footer() {
         marginTop: "2rem",
       }}
     >
-      © {new Date().getFullYear()} JualanOnline &mdash; All rights reserved.
+      © {new Date().getFullYear()} Sistem Penerimaan Murid Baru &mdash; All rights reserved.
     </footer>
   );
 }
