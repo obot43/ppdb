@@ -5,8 +5,8 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 
 export const metadata = {
-  title: 'JualanOnline - Sistem Jualam Modern',
-  description: 'Aplikasi Jualan modern untuk bisnis Anda',
+  title: 'Penerimaan Murid Baru 2025',
+  description: 'Sistem Penerimaan Murid Baru',
 }
 
 export default function RootLayout({ children }) {
